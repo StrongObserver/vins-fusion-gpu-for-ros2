@@ -1,0 +1,13 @@
+build/
+install/
+log/
+*.bag
+*.db3
+*.zip
+*.tar
+*.mp4
+*.avi
+*.pth
+*.pt
+*.onnx
+dataset/
