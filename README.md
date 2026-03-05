@@ -148,6 +148,6 @@ UXRCE_DDS_CFG设置为TELEM2
 ## 四、实现效果
 1.建模-实物
 <div align="center">
-  ![3月5日 (1)(4)](https://github.com/user-attachments/assets/74fbecbc-f1c9-40ca-84e4-a3154275ef27)
+  <img src="https://github.com/user-attachments/assets/74fbecbc-f1c9-40ca-84e4-a3154275ef27" alt="3月5日 (1)(4)" />
 </div>
 
